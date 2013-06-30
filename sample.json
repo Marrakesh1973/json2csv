@@ -1,0 +1,14 @@
+{ "results": [
+{
+  "email": "madeupperson@madeupserver.com",
+  "firstname": "John",
+  "lastname": "Do",
+  "objectId": "1000"
+},
+{
+  "email": "anothermadeupperson@madeupserver.com",
+  "firstname": "Jane",
+  "lastname": "Do",
+  "objectId": "2000"
+}
+] }
